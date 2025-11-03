@@ -10,7 +10,7 @@
 
 # About ME 💬 :
 
-### - I'm 16 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 16 years  old Machine Learning & Artificial Intelligence Enthusiast from Vietnam.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/khoatran1809/Shu/main/assets/1936.gif">
 
