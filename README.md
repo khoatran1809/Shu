@@ -10,7 +10,7 @@
 
 # About ME 💬 :
 
-### - I'm 16 years  old Machine Learning & Artificial Intelligence Enthusiast from Vietnam.
+### - I'm 16 years old Machine Learning & Artificial Intelligence Enthusiast from Vietnam.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/khoatran1809/Shu/main/assets/1936.gif">
 
@@ -69,9 +69,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=khoatran1809&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+  <img src="https://camo.githubusercontent.com/d1ba184dbf516959fa9038cca722c9f2e442fb781c2772fdf7e0b84b3c83e0de/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6f6d6e69"/>
+</p>
 
 *************
